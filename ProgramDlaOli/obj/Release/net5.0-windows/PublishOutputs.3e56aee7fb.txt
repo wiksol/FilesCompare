@@ -1,0 +1,7 @@
+C:\Users\wikto\Desktop\DlaOli\ProgramDlaOli.exe
+C:\Users\wikto\Desktop\DlaOli\ProgramDlaOli.dll
+C:\Users\wikto\Desktop\DlaOli\ProgramDlaOli.deps.json
+C:\Users\wikto\Desktop\DlaOli\ProgramDlaOli.runtimeconfig.json
+C:\Users\wikto\Desktop\DlaOli\ProgramDlaOli.pdb
+C:\Users\wikto\Desktop\DlaOli\Microsoft.WindowsAPICodePack.dll
+C:\Users\wikto\Desktop\DlaOli\Microsoft.WindowsAPICodePack.Shell.dll

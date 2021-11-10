@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrjgklNAbV43yjSkwWr9crJWlOWzSF8srUZ5tv8CpIlK9dLY+69X4yR71uFK/oWU7G4WiJPhl3YlhUnCbjvblw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wikto\\source\\repos\\ProgramDlaOli\\ProgramDlaOli\\ProgramDlaOli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wikto\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.4\\microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.4\\microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
